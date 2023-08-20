@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "rating": 10,
+      "text": "Feedback comment 2 - This is a feedback for something..."
+    },
+    {
+      "id": 323,
+      "rating": 2,
+      "text": "Feedback comment 3 - This is a feedback for something..."
+    },
+    {
+      "text": "afdsfsdfdsfsdf",
+      "rating": 7,
+      "id": 5
+    }
+  ]
+}
